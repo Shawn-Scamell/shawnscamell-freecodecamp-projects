@@ -15,7 +15,7 @@ _A personal record of completed FreeCodeCamp projects demonstrating HTML, CSS, a
 
 ---
 
-## 🧱 HTML
+## HTML
 
 ### **Basic HTML**
 1. [Lesson 1: Introduction to HTML](./HTML/BasicHTML/lesson1.html)
@@ -47,7 +47,7 @@ _(Section under development)_
 
 ---
 
-## 🎨 CSS
+## CSS
 
 ### **Basic CSS**
 _(Section under development)_
